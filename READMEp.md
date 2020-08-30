@@ -28,7 +28,9 @@
  ## Direct all questions to ccollins36@icloud.com
 
  ## Portfolio APP: [Launch App](https://ccollins1975.github.io/Portfolio-2/)
- 
+
+ ## Resume: [Go to Resume](https://docs.google.com/document/d/1hhKMBEjRfcMcQd-t3BhmNhDLA4ODwsaEm--K4fzkOxs/edit?usp=sharing)
+
  # Screen Shots
  ![screenshot](./Assets/Images/46Ptfzs.png)
  ![screenshot](./Assets/Images/chrome_esJGRCN705.png)
